@@ -17,5 +17,3 @@ author_footer: false
 
 ## 相关链接
 
-[博客源码][] - 如果喜欢这个博客模板，欢迎 fork 使用！
-[博客源码]: https://github.com/dongyado/dongyado.github.io
