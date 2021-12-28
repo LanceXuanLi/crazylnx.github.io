@@ -1,14 +1,14 @@
 # Site settings
 title: 生命不止，折腾不息
-author: MonsterSlayer
+author: Nanxuan Li
 author_avatar: /images/header.jpg
-email: alias@domain.tld
+email: lanceli31@163.com
 description: 生命不止，折腾不息 
-url: "https://dongyadoit.com"
-domain: "http://dongyadoit.com"
-github_username: dongyado
-github_site_repo: dongyado/dongyado.github.io
-disqus: monsterslayer
+url: "https://crazylnx.github.io/"
+domain: "https://crazylnx.github.io/"
+github_username: nanxuanl
+github_site_repo: https://crazylnx.github.io/
+disqus: Nanxuan Li
 
 
 # Build settings
