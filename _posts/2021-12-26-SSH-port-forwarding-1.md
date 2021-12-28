@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SSH port forwarding, SSH tunneling , SSH -L / R, SSH 隧道
-date: 2021-12-28
+date: 2021-12-26
 categories:
 - SSH
 tags: [SSH]
